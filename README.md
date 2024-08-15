@@ -1,2 +1,2 @@
 # CrudFlask
-First Flask CRUD Development 
+First FastAPI CRUD Development 
